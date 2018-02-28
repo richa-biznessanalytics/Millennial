@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Bizness Analytics Blog"
+title:		           "Bizness Analytics"
 description:	       "Awesome blog for Analytics Enthusists"
 author:              "Rashmi Richa"
 
