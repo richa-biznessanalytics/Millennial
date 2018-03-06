@@ -25,7 +25,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://richa-biznessanalytics.github.io/blog/'
   relativeLinks: 'http://richa-biznessanalytics.github.io/starter/links.jsonp'
-  media: 'media'
+  media: 'assets'
   ignore:
     - index.md
     - _config.yml
@@ -43,10 +43,10 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Analytics"
+              value: "analytics"
+            - name: "Data"
+              value: "data"
     _posts/static:
       - name: "layout"
         field:
