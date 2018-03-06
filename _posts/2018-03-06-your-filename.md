@@ -12,3 +12,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ![2.jpg]({{site.baseurl}}/assets/img/2.jpg)
 
 
+[link](https://www.linkedin.com/pulse/why-data-analytics-projects-fall-short-expectations-raghuwanshi/)
